@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://files.catbox.moe/3kyu4a.png" width="300" alt="Arslan-MD">
+</p>
 
-<!--
-**Arslan-MD/Arslan-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">〘 𝓐𝓡𝓢𝓛𝓐𝓝-𝓜𝓓 〙</h1>
+<h3 align="center">⚡ 𝑼𝒍𝒕𝒓𝒂 𝑷𝒓𝒐 𝑴𝒂𝒙 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒐𝒕 ⚡</h3>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Version](https://img.shields.io/badge/Version-2.0-blue)
+  ![License](https://img.shields.io/badge/License-MIT-green)
+  ![Stars](https://img.shields.io/github/stars/Arslan-MD/Arslai?color=yellow)
+  
+</div>
+
+---
+
+## 🏰 𝑭𝒐𝒍𝒅𝒆𝒓 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆
+```bash
+ARSLAN-MD/
+├── 📁 ArslanMedia
+│   ├── 🖼️ assets
+│   ├── 🔑 auth
+│   ├── 🤖 commands
+│   └── 🗃️ data
+├── ⚙️ config.js
+├── 🚀 main.js
+└── 📦 package.json
