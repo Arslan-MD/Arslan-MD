@@ -17,14 +17,6 @@
 
 ---
 
-## 🏰 𝑭𝒐𝒍𝒅𝒆𝒓 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆
-```bash
-ARSLAN-MD/
-├── 📁 ArslanMedia
-│   ├── 🖼️ assets
-│   ├── 🔑 auth
-│   ├── 🤖 commands
-│   └── 🗃️ data
-├── ⚙️ config.js
-├── 🚀 main.js
-└── 📦 package.json
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
