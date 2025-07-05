@@ -7,6 +7,8 @@
 
 <div align="center">
 
+[![Tap To Open Repo](https://i.imgur.com/1DHOg3Z.gif)](https://github.com/Arslan-MD/Arslan-Ai-2.0 )
+
   ![Version](https://img.shields.io/badge/Version-2.0-blue)
   ![License](https://img.shields.io/badge/License-MIT-green)
   ![Stars](https://img.shields.io/github/stars/Arslan-MD/Arslai?color=yellow)
