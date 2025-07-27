@@ -1,21 +1,43 @@
+[![TOHID-KHAN](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Arslan+MD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Pakistan-Lahore;Nice+to+Meet+You)](https://github.com/Arslan-MD)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## My Programming Stats
+
+<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
+  
+ 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arslan-MD&show_icons=true&locale=en&layout=compact" alt="Arslan-MD" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&locale=en" alt="Arslan-MD" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsan-MD&" alt="Arslan-MD" /></p>
+
+
+
+
+
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://files.catbox.moe/3kyu4a.png" width="300" alt="Arslan-MD">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a>
 </p>
 
-<h1 align="center">〘 𝓐𝓡𝓢𝓛𝓐𝓝-𝓜𝓓 〙</h1>
-<h3 align="center">⚡ 𝑼𝒍𝒕𝒓𝒂 𝑷𝒓𝒐 𝑴𝒂𝒙 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒐𝒕 ⚡</h3>
-
-<div align="center">
-
-[![Tap To Open Repo](https://i.imgur.com/1DHOg3Z.gif)](https://github.com/Arslan-MD/Arslan-Ai-2.0 )
-
-  ![Version](https://img.shields.io/badge/Version-2.0-blue)
-  ![License](https://img.shields.io/badge/License-MIT-green)
-  ![Stars](https://img.shields.io/github/stars/Arslan-MD/Arslai?color=yellow)
-  
-</div>
-
----
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
