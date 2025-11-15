@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/Arslan-MD/IvaSms-api">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MDp&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
