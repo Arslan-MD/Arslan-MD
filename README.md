@@ -1,11 +1,8 @@
-<a href="https://github.com/Arslan-MD"><img title="Author" src="https://img.shields.io/badge/ArslanXMD-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@arslanmdofficial"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/923237045919"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
-<p/> 
 
-<a href="https://github.com/Arslan-MD"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="250" height="250" alt=" ArslanMD"/></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Arslan-MD](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Arslan+MD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Pakistan-Lahore;Nice+to+Meet+You)](https://github.com/Arslan-MD)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -31,7 +28,29 @@
 
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<h3>Some of my Projects:</h3>
+
+<a href="https://github.com/Arslan-MD/Arslan_MD">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Arslan-MD/Arslan-Tech-Bot">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Arslan-MD/Arslan-Ai">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Arslan-MD/IvaSms-api">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MDp&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
