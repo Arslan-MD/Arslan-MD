@@ -5,6 +5,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+🇵🇰+ArslanMD+Official+🇵🇰;" />
+</h1>
+
 
 ## My Programming Stats
 
@@ -24,12 +28,40 @@
 
 
 
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+###
+<h2 align="left">📶 "Github stats"</h2>
+
+<br>
+
+<div align="center">
+  <!-- Stats graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+
+  <!-- Language graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arslan-MD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
+  <!-- Streak graph -->
+  <img src="https://streak-stats.demolab.com?user=Arslan-MD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+
+  <!-- Trophy graph -->
+  <img src="https://github-profile-trophy.vercel.app?username=Arslan-MD&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arslan-MD&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+
+
+###
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<p align="center">
+  <img src="https://github.com/umairkhan404/umairkhan404/blob/output/pacman-contribution-graph-dark.svg?raw=true" alt="pacman_gif" />
+</p>
 
 <h3>Some of my Projects:</h3>
 
