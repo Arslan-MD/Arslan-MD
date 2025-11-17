@@ -22,11 +22,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&locale=en" alt="Arslan-MD" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsan-MD&" alt="Arslan-MD" /></p>
-
-
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
