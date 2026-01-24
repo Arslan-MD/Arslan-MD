@@ -1,5 +1,5 @@
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://www.w3.org/TR/2018/CR-SVG2-20181004'/></a>
 
 <img src="https://github.com/Arslan-MD/Arslan-MD/blob/main/name.svg" width="400" alt="Arslan-MD Logo"/>
 
