@@ -1,6 +1,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+<img src="https://github.com/Arslan-MD/Arslan-MD/blob/main/name.svg" width="400" alt="Arslan-MD Logo"/>
+
+</div>
+
 [![Arslan-MD](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Arslan+MD;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Pakistan-Lahore;Nice+to+Meet+You)](https://github.com/Arslan-MD)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
